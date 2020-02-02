@@ -40,3 +40,28 @@
 .jumbotron{
     border-bottom-style: solid;
 }
+.contacts{
+    text-align: center;
+}
+.form-group{
+    
+}
+.form{
+    border-style: outset;
+    border-color: black;
+    height: 100%;
+    width: 100%;
+}
+.email{
+    font-size: x-large;
+    border-radius: 4%;
+    border-style: groove;
+    margin-top: 4px;
+}
+
+.name{
+    font-size: x-large;
+    border-radius: 4%;
+    border-style: groove;
+    margin-top: 4px;
+}
